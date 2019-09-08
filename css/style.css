@@ -8,3 +8,23 @@ p{
   padding-right: 150px;
   text-align: justify;
 }
+
+.contrast{
+  background-color: #EAECEE;
+}
+
+h1{
+  font-size: 1.5em;
+}
+
+h2{
+  font-size: 1em;
+}
+
+.col-sm-6{
+  text-align: center;
+}
+
+.Directions{
+  text-align: 150px;
+}
