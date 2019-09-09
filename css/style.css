@@ -24,3 +24,15 @@ h2{
 .col-sm-6{
   text-align: center;
 }
+
+.carousel-item{
+  transform: .2s ease;
+}
+
+.footer{
+  position: bottom;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
